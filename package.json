@@ -14,6 +14,7 @@
     "express-favicon": "^2.0.1",
     "path": "^0.12.7",
     "react": "^16.13.1",
+    "react-build-dist": "0.0.8",
     "react-chartjs-2": "^2.9.0",
     "react-countup": "^4.3.3",
     "react-dom": "^16.13.1",
